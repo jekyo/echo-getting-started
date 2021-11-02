@@ -1,1 +1,1 @@
-web: go run main.go --port 4139
+web: go run server.go --port 4139 --host 0.0.0.0
