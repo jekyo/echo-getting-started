@@ -1,1 +1,1 @@
-web: heroku-golang-echoServer
+web: bin/main
