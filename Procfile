@@ -1,1 +1,1 @@
-web: bin/main
+web: go run main.go --port 4139
