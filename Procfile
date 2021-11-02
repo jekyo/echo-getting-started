@@ -1,1 +1,1 @@
-web: go run main.go
+web: heroku-golang-echoServer
